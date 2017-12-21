@@ -1,0 +1,7 @@
+/root/Cstuff/madlib.c: In function ‘main’:
+/root/Cstuff/madlib.c:23:3: warning: implicit declaration of function ‘exit’ [-Wimplicit-function-declaration]
+   exit();
+   ^~~~
+/root/Cstuff/madlib.c:23:3: warning: incompatible implicit declaration of built-in function ‘exit’
+/root/Cstuff/madlib.c:23:3: note: include ‘<stdlib.h>’ or provide a declaration of ‘exit’
+/root/Cstuff/madlib.c:23:3: error: too few arguments to function ‘exit’
